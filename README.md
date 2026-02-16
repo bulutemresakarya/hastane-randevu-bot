@@ -25,8 +25,8 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 ### 1. Repoyu Klonlayın
 ```bash
-git clone https://github.com/bulutemresakarya/whatsapp-randevu-bot.git
-cd whatsapp-randevu-bot
+git clone https://github.com/bulutemresakarya/hastane-randevu-bot.git
+cd hastane-randevu-bot
 ```
 
 ### 2. Bağımlılıkları Yükleyin
@@ -90,3 +90,4 @@ Bu proje **eğitim ve portföy amaçlı** geliştirilmiştir. Herhangi bir kurum
 
 
 *Bu proje açık kaynaklıdır ve MIT lisansı ile lisanslanmıştır.*
+
