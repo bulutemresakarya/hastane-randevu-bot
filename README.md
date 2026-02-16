@@ -49,7 +49,7 @@ TARGET_DATE=09.02.2026     # Hedeflenen randevu tarihi
 
 ### 4. Botu Başlatın
 ```bash
-node endokrin.js
+node main.js
 ```
 
 Uygulama başladığında terminalde bir **QR Kod** belirecektir. WhatsApp mobil uygulamanızdan "Bağlı Cihazlar" menüsünü kullanarak bu kodu taratın.
@@ -62,7 +62,7 @@ Uygulama başladığında terminalde bir **QR Kod** belirecektir. WhatsApp mobil
 │   └── utils.js         # Yardımcı fonksiyonlar (delay vb.)
 ├── .env                 # (Gizli) Ortam değişkenleri
 ├── .gitignore           # Git tarafından yoksayılacak dosyalar
-├── endokrin.js          # Ana uygulama ve bot mantığı
+├── main.js              # Ana uygulama ve bot mantığı
 └── package.json         # Proje bağımlılıkları
 ```
 
@@ -87,5 +87,6 @@ Bu proje **eğitim ve portföy amaçlı** geliştirilmiştir. Herhangi bir kurum
 - LinkedIn: linkedin.com/in/bulut-sakarya
 
 ---
+
 
 *Bu proje açık kaynaklıdır ve MIT lisansı ile lisanslanmıştır.*
